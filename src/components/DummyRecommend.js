@@ -11,13 +11,19 @@ function DummyRecommend() {
                  </Link>
                </Wrap>
                <Wrap>
+               <Link to="/DummyDetail">
                  <img src="/images/recommended.jpg" alt="" />
+                 </Link>
                </Wrap>
                <Wrap>
+               <Link to="/DummyDetail">
                  <img src="/images/recommended.jpg" alt="" />
+                 </Link>
                </Wrap>
                <Wrap>
+               <Link to="/DummyDetail">
                  <img src="/images/recommended.jpg" alt="" />
+               </Link> 
                </Wrap>
             </Content>
             
